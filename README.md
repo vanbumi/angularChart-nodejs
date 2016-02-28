@@ -1,6 +1,6 @@
 # AngularJS Charts
 
-* Local folder: chartjs-nodejs
+* Local folder: sites_ng/angularChart-nodejs
 
 > This demo chart I have created with nodeJS as local server and running on port 3000, to create NodeJS server see here [NodeJS Server](https://github.com/vanbumi/CodeJournal/tree/master/NodeJS).
 
